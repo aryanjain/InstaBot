@@ -1,7 +1,7 @@
 #login
 URL='https://www.instagram.com/?hl=en'
-EMAIL='7059477526'
-PASSWORD='Aryanjain@0305'
+EMAIL=<YOUR EMAIL>
+PASSWORD=<YOUR PASSWORD>
 
 
 #like and follow
